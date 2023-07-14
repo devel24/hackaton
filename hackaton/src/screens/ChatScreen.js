@@ -23,7 +23,7 @@ const ChatScreen = () => {
           "parameters": {
             "endpoint": "https://hackaton-search.search.windows.net",
             "key": "W0XdxvzrxMPl2dtvhSiImFsi95DTixpkZe3KqwWlMZAzSeD0XxwS",
-            "indexName": "serch2",
+            "indexName": "serch3",
             "semanticConfiguration": "",
             "queryType": "simple",
             "fieldsMapping": null,
@@ -36,7 +36,7 @@ const ChatScreen = () => {
       "deployment": "prueba",
       "temperature": 0,
       "top_p": 1,
-      "max_tokens": 800,
+      "max_tokens": 4000,
       "stop": null,
       "stream": false
     });
